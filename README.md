@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: https://github.com/RSmith484/Social-proof-section.git
 - Live Site URL: https://rsmith484.github.io/Social-proof-section/
 
 ## My process
